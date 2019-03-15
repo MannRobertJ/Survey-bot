@@ -2,7 +2,7 @@
 
 A react / redux / botkit / express app. Used to survey students in a class, to guage how they are doing with the course. 
 
-Made with [Emine Bahce Çizer](https://github.com/eminebahce), [Denise Recofka](https://github.com/recofka), and [Izabela Nowosada](https://github.com/niza25)
+Made with [Emine Bahce Çizer](https://github.com/eminebahce), [Izabela Nowosada](https://github.com/niza25), and [Denise Recofka](https://github.com/recofka).
 
 ### For Users
 
